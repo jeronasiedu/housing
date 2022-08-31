@@ -1,0 +1,1 @@
+class Listfreewifi1ItemModel { }
